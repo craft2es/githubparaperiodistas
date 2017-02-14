@@ -188,13 +188,15 @@ Incluye:
 ## Ejercicio 3
 
 1. Haz click en [https://github.com/craft2es/githubparaperiodistas](https://github.com/craft2es/githubparaperiodistas)
-1. Pulsa el botón verde **Clone or download** y luego el botón **Open in Desktop**
+1. Pulsa el botón **Fork **ubicado en la parte superior derecha de la página del repositorio
+1. Hacer un Fork significa crear una **copia** de un proyecto de otra persona en tu Github. En este caso haes fork de **githubparaperiodistas** y se crea la copia en tu sitio **github.com/tunombredeusuario**.
+1. Verás la copia en **github.com/tunombredeusuario/githubparaperiodistas**
+1. Pulsa el botón verde Clone or download y luego click en **Open in Desktop**.
 1. Guarda el repositorio en tu carpeta **repos**
-1. Abre Github Desktop y verás que ahora en tu computador tienen una versión local del repositorio **githubparaperiodistas**.
-1. Ahora anda a [https://github.com/craft2es/githubparaperiodistas](https://github.com/craft2es/githubparaperiodistas) y abre un Issue:
-1. En título pon **Mi primer issue**. 
-1. En el cuerpo del Issue incluye la dirección de tu cuenta de usuario en Github (**github.com/sunombredeusuario**), la dirección de tu sitio web en Github (**sunombredeusuario.github.io**) y escribe qué cosas del taller no te quedaron claras.
-1. Pulsa el botón verde **Submit an issue**
+1. Abre Github Desktop: verás en tu computador una versión local del repositorio **githubparaperiodistas**. Ya puedes hacer lo que quieras con él.
+1. Anda a [https://github.com/craft2es/githubparaperiodistas](https://github.com/craft2es/githubparaperiodistas) y abre un Issue:
+1. En título pon **Mi primer issue**. En el cuerpo del Issue incluyan la dirección de su cuenta de usuario en Github (**github.com/sunombredeusuario**), la dirección de su sitio web en Github (**sunombredeusuario.github.io**) y escriba qué cosas no le quedaron claras.
+1. Pulsa el botón verde **Submit an issue**.
 
 ## Lista de medios recomendados en Github
 
