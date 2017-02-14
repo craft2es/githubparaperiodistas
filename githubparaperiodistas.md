@@ -137,23 +137,17 @@ Reitero: La regla de oro es que hagas commits muy frecuentemente y que expliques
 
 [12]: images/githubparaperiodistas/11-resultado.png
 
-## Ejercicio: Crear tu primer sitio web personal en Github
+## Ejercicio 1: Crear tu primer sitio web personal en Github
 
 1. Ir a [https://pages.github.com/](https://pages.github.com/) 
 1. Haz click en [User or organization site](https://pages.github.com/#user-site)
 1. Anda a [GitHub](https://github.com/) y [crea un nuevo repositorio](https://github.com/new) que se llame **username.github.io**, donde *username* es tu tu nombre de usuario en Github.
-1. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-1. 
 
 *Si tienes dudas más adelante revisa las *[*guías de ayuda*](https://help.github.com/desktop/)* de la aplicación.*
 
-
-
-[https://github.com/miguelpaz/jlab/blob/master/gh-pages_tutorial.md](https://github.com/miguelpaz/jlab/blob/master/gh-pages_tutorial.md)
-
 ![][13]
 
-[13]: images/githubparaperiodistas/ejercicio--crear-tu-primer-sitio-web-personal-en-github.png
+[13]: images/githubparaperiodistas/ejercicio-1--crear-tu-primer-sitio-web-personal-en-github.png
 
 ## Clónalo a tu computador
 
@@ -169,19 +163,41 @@ Reitero: La regla de oro es que hagas commits muy frecuentemente y que expliques
 
 [15]: images/githubparaperiodistas/debiera-verse-as-iacute-.png
 
-## Crea una página web y súbela a tu repositorio haciendo commit
+## Ejercicio 2: Crea una página web y súbela a tu repositorio tunombredeusuario.github.io haciendo "Commit"
 
 Incluye:
 
-1. Index.html
-1. Carpeta de imágenes
-1. Carpeta de archivos css
-1. El resultado debiera estar en tu username.github.io 
+* Index.html
+* Carpeta de archivos de imágenes y dentro, las imágenes.
+* Carpeta de archivos de css y dentro, el o los archivos .css
 
-## Resultado
+****Ojo: ****Puedes usar una página web que ya hayas hecho.*
 
-[https://craft2es.github.io/](https://craft2es.github.io/)
+1. Copia los archivos (Index.html y las carpetas de imágenes y de css) y pégalos dentro de la carpeta o repositorio **tunombredeusuario.github.io **en tu computador.
+1. Recuerda: la carpeta o repositorio **tunombredeusuario.github.com **está dentro de la carpeta madre **repos.**
+1. Ahora abre en Github Desktop la carpeta o repositorio **tunombredeusuario.github.com **y haz un **commit** detallando los cambios.
+
+## Resultado: Esta es la página del curso Craft 2 Español
+
+[https://craft2es.github.io/](https://craft2es.github.io/) 
 
 ![][16]
 
-[16]: images/githubparaperiodistas/resultado.png
+[16]: images/githubparaperiodistas/resultado--esta-es-la-p-aacute-gina-del-curso-craft-2-espa-ntilde-ol.png
+
+## Ejercicio 3
+
+1. Haz click en [https://github.com/craft2es/githubparaperiodistas](https://github.com/craft2es/githubparaperiodistas)
+1. Pulsa el botón verde **Clone or download** y luego el botón **Open in Desktop**
+1. Guarda el repositorio en tu carpeta **repos**
+1. Abre Github Desktop y verás que ahora en tu computador tienen una versión local del repositorio **githubparaperiodistas**.
+1. Ahora anda a [https://github.com/craft2es/githubparaperiodistas](https://github.com/craft2es/githubparaperiodistas) y abre un Issue:
+1. En título pon **Mi primer issue**. 
+1. En el cuerpo del Issue incluye la dirección de tu cuenta de usuario en Github (**github.com/sunombredeusuario**), la dirección de tu sitio web en Github (**sunombredeusuario.github.io**) y escribe qué cosas del taller no te quedaron claras.
+1. Pulsa el botón verde **Submit an issue**
+
+## Lista de medios recomendados en Github
+
+[https://github.com/showcases/open-journalism](https://github.com/showcases/open-journalism) 
+
+**Desafío: **Haz **fork** de los repositorios que te gustan y ve qué pasa.
