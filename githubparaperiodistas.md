@@ -54,7 +54,7 @@ Realizar proyectos digitales requiere que seas ordenado y definas dónde guardar
 
 [5]: images/githubparaperiodistas/4-crea-una-carpeta-d-oacute-nde-guardar-aacute-s-todos-tus-repositorios.png
 
-## 5. Instalar Github Desktop en tu computador
+## 5. Instala Github Desktop en tu computador
 
 ¿Recuerdas cuando aprendiste a usar una aplicación de subida de archivos a servidor vía FTP como [File Zilla](https://filezilla-project.org/) para publicar tu sitio web?
 
@@ -177,6 +177,7 @@ Incluye:
 ## Resultado: Esta es la página del curso Craft 2 Español
 
 [https://craft2es.github.io/](https://craft2es.github.io/)
+Algo rápido que hice en HTML y CSS en lo cual probé a usar [Tachyons CSS](www.tachyions.io), un framework de CSS pequeño y muy poderoso que estoy aprendiendo (por lo que el sitio puede tener errores).
 
 ![][16]
 
@@ -200,3 +201,7 @@ Incluye:
 [https://github.com/showcases/open-journalism](https://github.com/showcases/open-journalism)
 
 **Desafío: **Haz **fork** de los repositorios que te gustan y ve qué pasa.
+
+## Entérate de lo que hacemos en la Maestría de Periodismo de CUNY en Nueva York :)
+
+Si llegaste hasta aquí y no eres uno de mis estudiantes, te invito a conocer el [programa bilingüe (Inglés y Español) de la Maestría de Periodismo de CUNY](https://www.journalism.cuny.edu/academics/subject-concentrations/spanish-language-journalism/).

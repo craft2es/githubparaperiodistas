@@ -1,2 +1,3 @@
-# githubparaperiodistas
-Guías paso a paso para periodistas de cómo usar Github 
+# Github para Periodistas
+
+Guías paso a paso de cómo usar Github 
